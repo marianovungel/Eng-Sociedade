@@ -2,7 +2,8 @@
     padding: 0px;
 }
 .catTitle{
-    color: #53c28b;
+    color: #FBCB05;
+    /* color: #53c28b; */
 }
 .item{
     display: flex;
